@@ -8,10 +8,10 @@ Uses a SQL Server database for persistence,
 Provides automatic API documentation via Swagger.
 
 ExpenseTrackerAPI/
-├── Controllers/          # API endpoints (handles HTTP requests)
-├── Data/                # Database context and configuration
-├── DTOs/                # Data Transfer Objects (API contracts)
-├── Models/              # Entity models (database structure)
-├── Program.cs           # Application startup and configuration
-├── appsettings.json     # Configuration settings
-└── ExpenseTrackerAPI.csproj  # Project dependencies
+  ├── Controllers/          # API endpoints (handles HTTP requests)
+  ├── Data/                # Database context and configuration
+  ├── DTOs/                # Data Transfer Objects (API contracts)
+  ├── Models/              # Entity models (database structure)
+  ├── Program.cs           # Application startup and configuration
+  ├── appsettings.json     # Configuration settings
+  └── ExpenseTrackerAPI.csproj  # Project dependencies
