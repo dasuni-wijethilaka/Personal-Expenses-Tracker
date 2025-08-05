@@ -120,6 +120,7 @@ F:\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.AssemblyInfo.cs
 F:\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.csproj.CoreCompileInputs.cache
 F:\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
 F:\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.sourcelink.json
 F:\ExpenseTrackerAPI\obj\Debug\net8.0\staticwebassets.build.json
 F:\ExpenseTrackerAPI\obj\Debug\net8.0\staticwebassets.development.json
 F:\ExpenseTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.ExpenseTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props
